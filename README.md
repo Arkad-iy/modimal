@@ -7,4 +7,4 @@
 - Gulp,
 - JS
 
-[Смотреть демо](https://user.github.io/repo/)
+[Смотреть демо](https://arkad-iy.github.io/modimal/#!)
