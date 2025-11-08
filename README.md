@@ -6,4 +6,6 @@
 - Gulp,
 - JS
 
+- [Смотреть демо](https://arkad-iy.github.io/modimal/)
+
 
